@@ -1,0 +1,11 @@
+body{
+    background-image: url(https://c4.wallpaperflare.com/wallpaper/251/419/584/products-kfc-wallpaper-preview.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 100vh;
+}
+h1{
+    color: aliceblue;
+}

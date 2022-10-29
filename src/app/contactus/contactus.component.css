@@ -1,0 +1,11 @@
+body{
+    background-image: url(https://cdn-p.isobar.com/-/jssmedia/isobardotcom/data/media/regional/china/case-study/1_kfc_cover.jpg?mw=1920);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 100vh;
+}
+h1{
+    color: aquamarine;
+}
